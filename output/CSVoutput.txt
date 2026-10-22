@@ -1,0 +1,1 @@
+This folder is created for the main code to dump the csv output. Once the program scans and reads the images in 'input' folder, it converts it into csv and dumps it in this folder.

@@ -1,0 +1,1 @@
+Drop the images containing the tables to convert them into csv in this particular folder. Make sure to not add anything more than the table contents as they might tamper with the OCR.
